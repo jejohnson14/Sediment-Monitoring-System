@@ -15,4 +15,4 @@ There are issues with PORTS/ COMMs while connecting computer to arduino, the fol
 SDCardtest.ino is used to test if the SD card module is connected propoerly and able to save data.
 
 # TimeRTCSet 
-TimeRTCSet.ino is used to update the Date and Time of the RTC if it is inaccurate. (it uses Unix Epoch Time).
+TimeRTCSet.ino is used to update the Date and Time of the RTC if it is inaccurate (use Unix Epoch Time).
