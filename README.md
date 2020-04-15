@@ -1,6 +1,6 @@
 # Sediment-Monitoring-System
 # Arduino Scripts
-  MedianReading10m.ino and MedianReading5m.ino files are the scripts that are to be uploaded to arduino for the operation of the 10 or 5 meter ultrasonic sensor (whichever is used).
+  MedianReading10M.ino and MedianReading5M.ino files are the scripts that are to be uploaded to arduino for the operation of the 10 or 5 meter ultrasonic sensor (whichever is used).
 The scripts are easily uploaded using the Adruino GUI interface for verifying and compiling arduino codes.
 
 # Packages 
